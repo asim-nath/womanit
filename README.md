@@ -1,2 +1,1 @@
-# womanit
-A educational portal for women
+# WOMEN_IT
